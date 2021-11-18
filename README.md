@@ -21,12 +21,12 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-#CONTACT
+# CONTACT
 
 * [ `Agam`](https://wa.me/6282217590187) 
 * [ `Bot WhatsApp`](https://wa.me/6282192440563) 
 
-#SOSMED
+# SOSMED
 
 * [ `YOUTUBE`](https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA) 
 * [ `INSTAGRAM`](https://instagram.com/lordagam23_) 
