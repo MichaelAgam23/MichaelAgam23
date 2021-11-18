@@ -21,7 +21,8 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
-###CONTACT
+#CONTACT
 
-* [`WhatsApp`](https://wa.me/6282217590187) 
+* [`Agam`](https://wa.me/6282217590187) 
+* [`Bot WhatsApp`](https://wa.me/6282192440563) 
 
