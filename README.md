@@ -1,7 +1,7 @@
 <h1 align="center">Hi! 👋 I'm Agam</h1>
 
 <p align="center">
-  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=A+Noob+Coder+From+Indonesia.;Html%2C+Css%2C+Javascript.;Love+Money+and+Life+is+Needed." alt="Michael Agam">
+  <a href="https://ibb.co/QQX130c"><img src="http://readme-typing-svg.herokuapp.com?color=1C71FA&center=true&vCenter=true&multiline=false&lines=I'Am+Michael+Agam+From+Indonesia.;I'am+Not+Programmer." alt="Michael Agam">
 </p>
 
 <p align="center">
