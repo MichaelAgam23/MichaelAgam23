@@ -15,11 +15,10 @@
 
 
 
-- 👋 Hi, I’m Michael Agam
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- Hi, I’m Michael Agam
+- I’m Form Indonesia
+- I'm Not Programmer
+
 
 # CONTACT
 
@@ -33,6 +32,7 @@
 * [ `ANIME LOVERS IND `](https://chat.whatsapp.com/C7aeVRZvug6H99sfHxPoFs) 
 * [ `ANIME DESU `](https://chat.whatsapp.com/FhRVp9FkBQsJD1XX6VphZn) 
 * [ ` EXTREAM `](https://chat.whatsapp.com/EyOOD9X6mInFKHlUUUwFd7) 
+* [ ` CATZY TEAM ` ](https://chat.whatsapp.com/JQ17aqI3rXq2LVPiLvAJm1) 
 
 
 # SOSMED
