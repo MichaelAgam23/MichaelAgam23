@@ -52,8 +52,7 @@
 * [ ` Michael Agam ` ](https://github.com/MichaelAgam23) 
 * [ ` KAMIKAZE ` ](https://github.com/KamiKaze2325)
 
-
-
+<p
 # PANUTAN
 
 * [ ` Arifi Razzaq ` ](https://github.com/Arifirazzaq2001) 
@@ -69,7 +68,7 @@
 # FRIENDS
 
 * [ ` Ridho ` ](github.com/atak676)
-
+</p>
 
 
 
