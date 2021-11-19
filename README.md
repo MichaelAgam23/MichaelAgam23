@@ -12,7 +12,7 @@
   <img src="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+Views" alt="Profile Views" /> <img src="https://img.shields.io/github/followers/MichaelAgam23?label=Followers" style=" float:left, margin-right:10px" alt="Followers" />
 </p>
 
-
+___
 <p align="center">
   <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript" />
   <img src="https://img.shields.io/badge/-Node.js-black?style=flat-square&logo=Node.js" />
@@ -53,10 +53,12 @@ ___
 * [ `Agam `](https://wa.me/6282217590187) 
 * [ `Bot WhatsApp `](https://wa.me/6282192440563) 
 
+___
 # DONASI
 
 * [ ` Saweria ` ](https://saweria.co/MichaelAgam) 
 
+___
 # GROUP WHATSAPP
 
 * [ `RPG WHATSAPP BOT ` ](https://chat.whatsapp.com/GjorbJLSWDX3kJPFYS8I75) 
@@ -66,21 +68,21 @@ ___
 * [ ` EXTREAM `](https://chat.whatsapp.com/EyOOD9X6mInFKHlUUUwFd7) 
 * [ ` CATZY TEAM ` ](https://chat.whatsapp.com/JQ17aqI3rXq2LVPiLvAJm1) 
 
-
+___
 
 # SOSMED
 
 * [ `YOUTUBE `](https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA) 
 * [ `INSTAGRAM `](https://instagram.com/lordagam23_) 
 
-
+___
 
 # GITHUB
 
 * [ ` Michael Agam ` ](https://github.com/MichaelAgam23) 
 * [ ` KAMIKAZE ` ](https://github.com/KamiKaze2325)
 
-
+___
 # PANUTAN
 
 * [ ` Arifi Razzaq ` ](https://github.com/Arifirazzaq2001) 
@@ -91,7 +93,7 @@ ___
 * [ ` Aqulz ` ](https://github.com/zennn08)
 * [ ` Vean ` ](https://github.com/Veanyxz)
 
-
+___
 
 # FRIENDS
 
