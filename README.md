@@ -60,3 +60,8 @@
 * [ ` NURUTOMO ` ](https://github.com/Nurutomo) 
 * [ ` ManuriosX ` ](https://github.com/ManuriosX) 
 * [ ` ADIWAJSHING ` ](https://github.com/adiwajshing) 
+* [ ` Aqulz ` ](https://github.com/zennn08)
+
+# FRIENDS
+
+* [ ` Ridho ` ](github.com/atak676)
