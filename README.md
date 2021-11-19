@@ -30,7 +30,6 @@ ___
 
 ___
 <a href="https://youtu.be/S0UaWdAbfT8"><img src="https://img.shields.io/badge/YouTube-YT KAMIKAZE-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA" /><br>
-  <a name=MichaelAgam&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA"><img src="https://img.shields.io/youtube/channel/subscribers/UCw78OZWMeMYjMdOP1oYv6XA?style=social" /> <br>
   <a href="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=MichaelAgam&color=blue&style=flat-square&label=Profile+View"></a>
 </p>
@@ -46,7 +45,7 @@ ___
    
 "Big Thanks To"
 
-  "- Yesus Kristus"
+  "- Tuhanku"
   "- Keluargaku"
   "- Catzy Team"
   "- And My Friends"
