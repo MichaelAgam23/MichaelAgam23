@@ -96,6 +96,8 @@ ___
 * [ ` ADIWAJSHING ` ](https://github.com/adiwajshing) 
 * [ ` Aqulz ` ](https://github.com/zennn08)
 * [ ` Vean ` ](https://github.com/Veanyxz)
+* [ ` Caliph91 ` ](https://github.com/Caliph91) 
+* [ ` Ariffb ` ](https://github.com/ariffb25) 
 
 ___
 
