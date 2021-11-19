@@ -110,3 +110,22 @@ ___
 
  <a href="https://github.com/MichaelAgam23"><img src="https://cardivo.vercel.app/api?name=MichaelAgam&description=Hi,%20i%27m%20Michael%20Agam%20and%20i%27m%20just%20a%20newbie%20programmer%20Nice%20to%20meet%20you%20👋&image=https://i.ibb.co/tK3WTRh/FB-IMG-1619342660961.jpgn=%23eaeaea" /><a>
 </p>
+
+___
+<p align="center">
+  <a href="https://github.com/MichaelAgam23"><img src="https://github-readme-stats.vercel.app/api?username=MichaelAgam23&theme=tokyonight&show_icons=true" /></a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/MichaelAgam23"><img src="https://github-readme-streak-stats.herokuapp.com?user=ruanyf&theme=tokyonight&hide_border=false&properties=background&border=%239611C5FF" /><a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/MichaelAgam23"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=MichaelAgam23&theme=tokyonight&layout=compact" /></a>
+</p>
+  
+<p align="center">
+  <a href="https://github.com/MichaelAgam23"><img src="https://github-profile-trophy.vercel.app/?username=ruanyf&theme=radical&margin-w=20&no-bg=true&no-frame=false" /><a>
+</p>
+    
+___
