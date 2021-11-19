@@ -29,8 +29,8 @@ ___
 </p>
 
 ___
-                 <a href="https://youtu.be/S0UaWdAbfT8"><img src="https://img.shields.io/badge/YouTube-YT KAMIKAZE-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA" /><br>
-                 <a href="https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA"><img src="https://img.shields.io/youtube/channel/subscribers/UCw78OZWMeMYjMdOP1oYv6XA?style=social" /> <br>
+<a href="https://youtu.be/S0UaWdAbfT8"><img src="https://img.shields.io/badge/YouTube-YT KAMIKAZE-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA" /><br>
+<a href="https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA"><img src="https://img.shields.io/youtube/channel/subscribers/UCw78OZWMeMYjMdOP1oYv6XA?style=social" /> <br>
 </p>
 
 ___
