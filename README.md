@@ -61,6 +61,7 @@
 * [ ` ManuriosX ` ](https://github.com/ManuriosX) 
 * [ ` ADIWAJSHING ` ](https://github.com/adiwajshing) 
 * [ ` Aqulz ` ](https://github.com/zennn08)
+* [ ` Vean ` ](https://github.com/Veanyxz)
 
 # FRIENDS
 
