@@ -51,3 +51,12 @@
 
 * [ ` Michael Agam ` ](https://github.com/MichaelAgam23) 
 * [ ` KAMIKAZE ` ](https://github.com/KamiKaze2325) 
+
+
+# PANUTAN
+
+* [ ` Arifi Razzaq ` ](https://github.com/Arifirazzaq2001) 
+* [ ` ZEEONE OFC ` ](https://github.com/zeeoneofc) 
+* [ ` NURUTOMO ` ](https://github.com/Nurutomo) 
+* [ ` ManuriosX ` ](https://github.com/ManuriosX) 
+* [ ` ADIWAJSHING ` ](https://github.com/adiwajshing) 
