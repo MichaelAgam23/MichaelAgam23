@@ -15,11 +15,24 @@
 
 
 
-- Hi, I’m Michael Agam
-- I’m Form Indonesia
-- I'm Not Programmer
+### [`MY SELF`](https://instagram.com/lordagam23_/)
+```
+"Name": "Michael Argiam",
+"Status": "Pelajar",
+"Address": "Mamuju, Topoyo, Sulawesi Barat",
+"Age": "17 Years Old",
+"Birthday": "March - 23, 2004"
+   
+"Big Thanks To"
 
-<p
+  "- Yesus Kristus"
+  "- Keluargaku"
+  "- Catzy Team"
+  "- And My Friends"
+```
+___
+
+
 # CONTACT
 
 * [ `Agam `](https://wa.me/6282217590187) 
@@ -68,8 +81,6 @@
 # FRIENDS
 
 * [ ` Ridho ` ](github.com/atak676)
-</p>
-
 
 
 
@@ -78,6 +89,7 @@ ___
 ```
             Visitors
 ```
+___
 <p align="center">
    <img width="300" height="150" src="https://camo.githubusercontent.com/db45054d90ef8099ce0235c82592c406dba0adcda421f8a84f162b58bab5d3e0/68747470733a2f2f636f756e742e6765746c6f6c692e636f6d2f6765742f406e6f627579616b693f7468656d653d67656c626f6f72752d68" />
 
