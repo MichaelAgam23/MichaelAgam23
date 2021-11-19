@@ -19,7 +19,7 @@
 - I’m Form Indonesia
 - I'm Not Programmer
 
-
+<p
 # CONTACT
 
 * [ `Agam `](https://wa.me/6282217590187) 
@@ -37,22 +37,24 @@
 * [ `ANIME DESU `](https://chat.whatsapp.com/FhRVp9FkBQsJD1XX6VphZn) 
 * [ ` EXTREAM `](https://chat.whatsapp.com/EyOOD9X6mInFKHlUUUwFd7) 
 * [ ` CATZY TEAM ` ](https://chat.whatsapp.com/JQ17aqI3rXq2LVPiLvAJm1) 
+<p
 
-
+<p
 # SOSMED
 
 * [ `YOUTUBE `](https://www.youtube.com/channel/UCw78OZWMeMYjMdOP1oYv6XA) 
 * [ `INSTAGRAM `](https://instagram.com/lordagam23_) 
+<p
 
 
-
-
+<p
 # GITHUB
 
 * [ ` Michael Agam ` ](https://github.com/MichaelAgam23) 
-* [ ` KAMIKAZE ` ](https://github.com/KamiKaze2325) 
+* [ ` KAMIKAZE ` ](https://github.com/KamiKaze2325)
+<p 
 
-
+<p
 # PANUTAN
 
 * [ ` Arifi Razzaq ` ](https://github.com/Arifirazzaq2001) 
@@ -62,11 +64,15 @@
 * [ ` ADIWAJSHING ` ](https://github.com/adiwajshing) 
 * [ ` Aqulz ` ](https://github.com/zennn08)
 * [ ` Vean ` ](https://github.com/Veanyxz)
+<p
 
+<p
 # FRIENDS
 
 * [ ` Ridho ` ](github.com/atak676)
 
+
+<p
 
 
 
