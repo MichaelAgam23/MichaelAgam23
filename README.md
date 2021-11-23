@@ -46,6 +46,7 @@ ___
 
   "- Tuhanku"
   "- Keluargaku"
+  "- ValkyrieX4 Team"
   "- Catzy Team"
   "- And My Friends"
 ```
